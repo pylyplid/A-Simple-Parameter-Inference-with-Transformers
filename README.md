@@ -3,9 +3,7 @@
 This project explores the use of Transformer-based architectures for predicting parameters of periodic signals in a regression setting.  
 The model aims to infer both the amplitude **A** and frequency **ω** of a signal defined by:
 
-\[
-y_i(A_i, ω_i; t) = A_i \cdot \sin(ω_i t)
-\]
+$$ y_i(A_i, ω_i; t) = A_i \cdot \sin(ω_i t) $$
 
 The input data is a vector representation of the signal, and the task is to estimate the underlying parameters using deep learning — specifically, Transformers.
 
