@@ -78,6 +78,9 @@ The full report with all tables, charts, architecture details and references is 
 * matplotlib
 * optuna
 
-## 🧠 Author
-Lidiia Pylyp — 2024
+## 📄 License
+
+This project was developed as part of a university assignment at CTU in Prague (2024).  
+All code is original and intended for educational and demonstrative purposes only.  
+Please do not reuse for academic submission without proper attribution.
 
